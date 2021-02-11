@@ -1,0 +1,22 @@
+.game-over {
+    text-align: center;
+    color: #666666;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.restart {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    display: block;
+}
+
+.resultado {
+    text-align: center;
+}
+
+.highscore {
+    text-align: center;
+    margin-top: 20px;
+}
